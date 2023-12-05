@@ -1,0 +1,7 @@
+--upgrade pip
+--upgrade setuptools
+Pandas
+Scikit-learn
+Streamlit
+nbconvert
+
