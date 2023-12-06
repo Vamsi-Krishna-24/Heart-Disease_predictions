@@ -1,0 +1,5 @@
+outs:
+- md5: 45f8ec7d58053aaf8d72eae880a4993e
+  size: 196000
+  hash: md5
+  path: framingham.csv
