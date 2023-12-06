@@ -15,7 +15,7 @@ import streamlit as st
 # In[172]:
 
 
-data = pd.read_csv('/Users/surisettivamsikrishna/Downloads/untitled folder/Projects /Heart prediction/framingham.csv')
+data = pd.read_csv('data/framingham.csv')
 data.isnull().any(axis=1)
 data =data.dropna()
 
